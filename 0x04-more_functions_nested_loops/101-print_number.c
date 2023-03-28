@@ -3,7 +3,7 @@
  * print_number - prints an integer
  * @n:.input integer parameter
  *
- *Owned by Douglas Makuba
+ *Owned by Douglas M
  */
 void print_number(int n)
 {
